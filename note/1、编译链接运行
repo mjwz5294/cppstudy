@@ -1,0 +1,7 @@
+1、编译cpp源码，下面两种方式效果一致
+（1）gcc helloworld.cpp -lstdc++ -o helloworld
+（2）g++ helloworld.cpp -o helloworld
+
+2、编译多个文件：g++ runoob1.cpp runoob2.cpp -o runoob
+
+3、g++ 常用命令选项：http://www.runoob.com/cplusplus/cpp-environment-setup.html
